@@ -1,3 +1,5 @@
+docker-compose up -d --build y queda corriendo en el puerto 7000 accesible desde cualquier ip
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
