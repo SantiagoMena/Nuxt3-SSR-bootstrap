@@ -16,7 +16,7 @@ COPY . .
 RUN npm run build
 
 # Exponer el puerto por defecto (se puede cambiar en .env)
-EXPOSE 3000
+EXPOSE 7000
 
 # Iniciar la aplicación con variables de entorno
 CMD ["sh", "-c", "node .output/server/index.mjs"]
